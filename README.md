@@ -20,29 +20,21 @@
 Hello, GitHub! 👋
 
 I'm Abraham Romero, a student at Brigham Young University-Idaho interested in embedded systems, web and app development, and computer engineering. Welcome to my GitHub profile!
+- Here is my [LinkedIn](https://www.linkedin.com/in/abraham4romero/) profile
+- Here is my [Handshake](https://byui.joinhandshake.com/profiles/abraham4romero) profile
 
 ## About Me
 
 - 🔭 I’m currently working on my personal portfolio website!
 - 🌱 I’m currently learning how to build apps.
-- 📫 How to reach me: rom23019@byui.edu
 - ⚡ Fun fact: I can snap with my pinky and pointer finger!
 - 🥇 My current goal is to get an internship over the summer (2027) in the field of computer engineering.
 
 ## Technologies and Tools
  
-| Languages             | Skills & Tools                | Software                |
-| :-------------------- | :---------------------------- | :---------------------- |
-| - C                   | - Soldering                   | - VS Code               |
-| - C++                 | - Oscilloscopes               | - STM32cubeIDE          |
-| - C#                  | - Function Generators         | - Eclipse               |
-| - Python              | - Multimeters                 | - Arduino               |
-| - Java                | - VNA                         | - Altium Designer       |
-| - R                   | - Microcontrollers            | - Logisim               |
-| - HTML                | -                             | - LTSpice               |
-| - CSS                 | -                             | - Mathmatetica          |
-| - Verilog             | -                             | - Inventor              |
-| -                     | -                             | - Onshape               |
+**Languages:** C, C++, C#, Python, Java, R, HTML, CSS, Verilog <br>
+**Skills & Tools:** Soldeing, Oscilloscopes, Function Generators, Multimeters, VNA, Microcontrollers <br>
+**Software:** VS Code, STM32cubeIDE, Eclipse, Arduino, Altium Designer, Logisim, LTSpice, Mathematica, Inventor, Onshape
 
 <!-- <div id="software-icons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="XCode" width="20px" height="20px">
@@ -59,17 +51,11 @@ I'm Abraham Romero, a student at Brigham Young University-Idaho interested in em
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="20px" height="20px">
 </div> -->
 
-    
 <!-- <div id="hardware-icons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="20px" height="20px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="20px" height="20px">
   <img src="" alt="ST" width="20px" height="20px">
 </div> -->
-
-## Let's Connect!
-
-- Here is my [LinkedIn](https://www.linkedin.com/in/abraham4romero/) profile
-- Here is my [Handshake](https://byui.joinhandshake.com/profiles/abraham4romero) profile
 
 <!-- <div id="social-icons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30px" height="30px">
