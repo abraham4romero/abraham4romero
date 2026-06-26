@@ -66,7 +66,6 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 ## Stats
 
 <div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=abraham4romero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F0E" alt="my Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abraham4romero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  [![Abraham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abraham4romero)](https://github.com/abraham4romero/github-readme)
 </div>
-<img src="https://myreadme.vercel.app/api/embed/abraham4romero?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
