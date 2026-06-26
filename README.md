@@ -20,8 +20,6 @@
 Hello, GitHub! 👋
 
 I'm Abraham Romero, a student at Brigham Young University-Idaho interested in embedded systems, web and app development, and computer engineering. Welcome to my GitHub profile!
-- Here is my [LinkedIn](https://www.linkedin.com/in/abraham4romero/) profile
-- Here is my [Handshake](https://byui.joinhandshake.com/profiles/abraham4romero) profile
 
 ## About Me
 
