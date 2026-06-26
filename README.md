@@ -62,3 +62,11 @@ I'm Abraham Romero, a student at Brigham Young University-Idaho interested in em
 </div> -->
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+## Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abraham4romero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  [![Abraham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abraham4romero)](https://github.com/abraham4romero/github-readme)
+</div>
+<img src="https://myreadme.vercel.app/api/embed/abraham4romero?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
