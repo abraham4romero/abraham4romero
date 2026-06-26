@@ -27,6 +27,7 @@ I'm Abraham Romero, a student at Brigham Young University-Idaho interested in em
 - 🌱 I’m currently learning how to build apps.
 - ⚡ Fun fact: I can snap with my pinky and pointer finger!
 - 🥇 My current goal is to get an internship over the summer (2027) in the field of computer engineering.
+- 🚀 Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
 
 ## Technologies and Tools
  
@@ -61,11 +62,9 @@ I'm Abraham Romero, a student at Brigham Young University-Idaho interested in em
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" height="30px">
 </div> -->
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
-
 ## Stats
 
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=abraham4romero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F0E" alt="my Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abraham4romero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=abraham4romero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7EFC00&icon_color=7EFC00&text_color=A1A1A1&bg_color=0,000000,00002F" alt="my Github Stats"/>
+  </div>
