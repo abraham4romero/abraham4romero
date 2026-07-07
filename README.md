@@ -65,6 +65,6 @@ I'm Abraham Romero, a student at Brigham Young University-Idaho interested in em
 ## Stats
 
 <div>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=abraham4romero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mini-stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=abraham4romero&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="most used languages" />
   <img align="top" src="https://github-stats-extended.vercel.app/api?username=abraham4romero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7EFC00&icon_color=7EFC00&text_color=A1A1A1&bg_color=0,000000,00001F" alt="my Github Stats"/>
   </div>
